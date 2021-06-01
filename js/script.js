@@ -88,6 +88,26 @@ console.log(somma);
 // Chiedi per 6 volte all’utente di inserire un numero, se è dispari inseriscilo nell’array
 
 
+/*
+var array = [];
+
+for (var i = 0; i < 6; i++) {
+    insNum = parseInt(prompt('Inserisci 6 numeri'));
+    if(insNum % 2 != 0){
+        array += insNum;
+    }
+}
+
+console.log(array);
+*/
+
+
+
+
+
+
+
+
 
 
 //  // ************** ESERCIZIO 4 ************** //
@@ -95,3 +115,4 @@ console.log(somma);
 
 // In un array sono contenuti i nomi degli invitati alla festa del grande Gatsby, 
 // chiedi all’utente il suo nome e comunicagli se può partecipare o no alla festa.
+
