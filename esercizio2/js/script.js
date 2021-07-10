@@ -16,8 +16,11 @@
 var somma = 0;
 
 for (var i = 0; i < 5; i++) {
+
     insNum = parseInt(prompt('Inserisci 5 numeri'));
+
     somma += insNum;
+
 }
 
 console.log(somma);
@@ -26,16 +29,18 @@ console.log(somma);
 
 // // ************** VERSIONE WHILE ************** //
 
-
-
 var somma = 0;
 
 var i = 0;
 
 while( i < 5) {
+
     i++;
+
     insNum = parseInt(prompt('Inserisci 5 numeri'));
+
     somma += insNum;
+
 }
 
 console.log(somma);

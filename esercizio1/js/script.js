@@ -23,6 +23,7 @@ if (parola1.length < parola2.length) {
 }else {
     
     console.log(parola2 + ' ' + parola1);
+    
 }
 
 
